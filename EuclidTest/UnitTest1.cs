@@ -1,6 +1,3 @@
-using Microsoft.VisualStudio.TestPlatform.TestHost;
-using NUnit.Framework;
-using Euclid;
 using Program = Euclid.Program;
 
 namespace EuclidTest
